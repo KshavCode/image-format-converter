@@ -46,6 +46,3 @@ python .\main.py
 
 ## Contributing
 Feel free to open issues or submit improvements — e.g., drag-and-drop support, batch conversion, or file name options.
-
-## License
-This repository contains no license file; add one if you plan to publish or share publicly.
